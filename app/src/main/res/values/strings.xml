@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tour Note JV</string>
+    <string name="empty_note">Your note list is empty, let start to create your first note now</string>
+</resources>
